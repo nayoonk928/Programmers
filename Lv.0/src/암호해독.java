@@ -1,4 +1,4 @@
-public class 암호해독 {
+public class Solution {
     public String solution(String cipher, int code) {
         String answer = "";
 

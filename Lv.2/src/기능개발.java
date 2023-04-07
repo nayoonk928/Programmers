@@ -2,7 +2,7 @@ import java.util.Queue;
 import java.util.LinkedList;
 import java.util.ArrayList;
 
-class 기능개발 {
+class Solution {
     public int[] solution(int[] progresses, int[] speeds) {
         ArrayList<Integer> list = new ArrayList<>();
         int[] day = new int[progresses.length];

@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 
-class 나누어떨어지는숫자배열 {
+class Solution {
     public int[] solution(int[] arr, int divisor) {
         ArrayList<Integer> list = new ArrayList<>();
         int[] answer = {};

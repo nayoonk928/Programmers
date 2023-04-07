@@ -1,4 +1,4 @@
-public class 제곱수판별하기 {
+public class Solution {
     public int solution(int n) {
 
         if (Math.sqrt(n) % 1 == 0) {

@@ -1,6 +1,6 @@
 import java.util.*;
 
-class 추억점수 {
+class Solution {
     public int[] solution(String[] name, int[] yearning, String[][] photo) {
         int[] answer = new int[photo.length];
         HashMap<String, Integer> map = new HashMap<>();
